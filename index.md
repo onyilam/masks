@@ -23,9 +23,9 @@ For me, the painful aspects of making a website are
 
 ### Resources (Updated April 24, 2020)
 
-| Product  |      Website     |  Price |  Delivery Fee | Verified | 
-|----------|:-------------:|------:|------:| ------:|
-| Karat 3-Ply Face Mask  - 50 pcs | [Lollicupstore](https://lollicupstore.com/karat-face-mask-with-elastic-ear-loop-50-pcs.html)  |    $30 | $8  | Yes |
+| Product  |      Website     |  Price |  Delivery Fee | Availability | 
+|----------|:-------------:|----------:|----------:| --------------:|
+| Karat 3-Ply Face Mask - 50 pcs | [Lollicupstore](https://lollicupstore.com/karat-face-mask-with-elastic-ear-loop-50-pcs.html)  |    $30 | $8  | In Stock |
 
 
 ---
