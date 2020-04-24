@@ -25,7 +25,8 @@ For me, the painful aspects of making a website are
 
 | Product  |      Website     |  Price |  Delivery Fee | Availability | Ship From | 
 |-------------------|:----------------------------------:|----------------:|----------------:| --------------:| -----------------:|
-| Karat 3-Ply Face Mask - 50 pcs | [Lollicupstore](https://lollicupstore.com/karat-face-mask-with-elastic-ear-loop-50-pcs.html)  |    $30 | $8  | In Stock | California, USA|
+| Karat 3-Ply Face Mask - 50 pcs | [Lollicupstore](https://lollicupstore.com/karat-face-mask-with-elastic-ear-loop-50-pcs.html)  |    $30 | $8  | In Stock | California, USA |
+| 3-PLY Face Mask - 50 Pcs | [N95maskco](https://n95maskco.com/collections/most-popular-products/products/3-ply-face-mask-50-pack) | $79.99 |  -  | In Stock | New York, USA |
 
 
 ---
