@@ -21,11 +21,11 @@ For me, the painful aspects of making a website are
 - [Resources](pages/resources.html)
 
 
-## Resources
+### Resources
 
-| Product  |      URL      |  Price |  Delivery Fee | Verified | 
+| Product  |      Website     |  Price |  Delivery Fee | Verified | 
 |----------|:-------------:|------:|------:| ------:|
-| Karat 3-Ply Face Mask  - 50 pcs |   https://lollicupstore.com/karat-face-mask-with-elastic-ear-loop-50-pcs.html  |    $30 | $8  | Yes |
+| Karat 3-Ply Face Mask  - 50 pcs |   [Lollicupstore] (https://lollicupstore.com/karat-face-mask-with-elastic-ear-loop-50-pcs.html)  |    $30 | $8  | Yes |
 
 
 ---
