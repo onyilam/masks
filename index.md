@@ -21,7 +21,7 @@ For me, the painful aspects of making a website are
 - [Resources](pages/resources.html)
 
 
-### Resources
+### Resources (Updated April 24, 2020)
 
 | Product  |      Website     |  Price |  Delivery Fee | Verified | 
 |----------|:-------------:|------:|------:| ------:|
