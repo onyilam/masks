@@ -7,13 +7,16 @@ tagline: Crowd intelligence on Finding Masks
 
 ### Resources (Updated April 24, 2020)
 
-<div class="main">
 
 | Product  |      Website     |  Price |  Delivery Fee | Availability | Ship From | 
 |-------------------|:----------------------------------:|----------------:|----------------:| --------------:| -----------------:|
+
+| <img width=300/> |   <img width=300/>     |   |    |  |  | 
+
+
 | Karat 3-Ply Face Mask - 50 pcs | [Lollicupstore](https://lollicupstore.com/karat-face-mask-with-elastic-ear-loop-50-pcs.html)  |    $30 | $8  | In Stock | California, USA |
 | 3-PLY Face Mask - 50 Pcs | [N95maskco](https://n95maskco.com/collections/most-popular-products/products/3-ply-face-mask-50-pack) | $79.99 |  -  | In Stock | New York, USA |
 | 3-PLY Face Mask - 50 Pcs (2 packs) | [shopmaskcentral](https://shopmaskcentral.com/products/disposable-face-mask-2-packs-of-50-0-7-ct)| $79.98 |  -  | In Stock |  USA |
 
-</div>
+
 ---
