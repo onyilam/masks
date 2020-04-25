@@ -17,4 +17,4 @@ tagline:  #Crowd intelligence on Finding Masks
 
 ---
 
-email onyilam@gmail.com if you know of other websites!
+[email me](mailto: onyilam@gmail.com) if you know of other websites!
