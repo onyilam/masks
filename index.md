@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Where to Buy Masks
-tagline: Crowd intelligence on Finding Masks
+tagline:  #Crowd intelligence on Finding Masks
 #description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
@@ -16,3 +16,5 @@ tagline: Crowd intelligence on Finding Masks
 
 
 ---
+
+email onyilam@gmail.com if you know of other websites!
